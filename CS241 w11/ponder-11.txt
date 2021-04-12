@@ -1,0 +1,20 @@
+Your Name: Carlos W. Mercado
+
+1. What is the most interesting thing you learned as a part of your work for this class this week?
+► Learning and reading more about Python's arcade library. Here: https://realpython.com/arcade-python-game-framework/
+
+2. Describe one specific way that you helped someone else this week, or reached out for help.
+► I helped on of my team mates.
+
+3. Are there any topics from this week that you still feel uneasy about, or would like to learn more about?
+► Not really.
+
+4. How much time did you spend this week on each of the following:
+
+Reading ► 3
+Checkpoint A ► N/A
+Checkpoint B ► N/A
+Prove Assignment ► 2
+
+If you have other questions or comments for the instructor, please post them to Slack, either in the general channel if others can benefit, or as a direct message if the matter is more personal.
+

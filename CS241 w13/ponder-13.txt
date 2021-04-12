@@ -1,0 +1,20 @@
+Your Name: Carlos W. Mercado
+
+1. What is the most interesting thing you learned as a part of your work for this class this week?
+► More about Pandas/
+
+2. Describe one specific way that you helped someone else this week, or reached out for help.
+► I really don't remember right now. It's been like ten days since w13.
+
+3. Are there any topics from this week that you still feel uneasy about, or would like to learn more about?
+► Not really.
+
+4. How much time did you spend this week on each of the following:
+
+Reading ► 10
+Checkpoint A ► 6
+Checkpoint B ►  6
+Prove Assignment ► 12
+
+If you have other questions or comments for the instructor, please post them to Slack, either in the general channel if others can benefit, or as a direct message if the matter is more personal.
+

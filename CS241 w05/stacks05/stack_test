@@ -1,0 +1,14 @@
+braces = []
+filename = 'numbers.txt'
+
+
+with open(filename) as file_object:
+    lines = file_object.readlines()
+for line in lines:
+    line_content = line.split()
+    for content in line_content:
+        braces.append(content)
+        print(content)
+while braces:
+   num = braces.pop(-1)
+   print(num)
